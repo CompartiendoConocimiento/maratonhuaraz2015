@@ -2,7 +2,7 @@
 
 Se tiene el siguiente Arreglo definido en JavaScript
 
-```
+```javascript
 var ponentes = [
                 {"nombre":"Andres","apellido":"Poccorpachi","Tema":"Scrum"},
                 {"nombre":"Anderson","apellido":"Roncal","Tema":"JavaScript"},
