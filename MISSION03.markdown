@@ -3,7 +3,7 @@ Se tiene el siguiente Arreglo definido en JavaScript
 ```javascript
  var ponentes = [
                 {"nombre":"Andres","apellido":"Poccorpachi","Tema":"Scrum"},
-                {"nombre":"Anderson","apellido":"Roncal","Tema":"JavaScript"},
+                {"nombre":"Andres","apellido":"Roncal","Tema":"JavaScript"},
                 {"nombre":"Brayan","apellido":"Borda","Tema":"NodeJS"},
                 {"nombre":"Jack","apellido":"Moreno","Tema":"MongoDB"},
                 {"nombre":"Erick","apellido":"Flores","Tema":"ExpressJS"},
