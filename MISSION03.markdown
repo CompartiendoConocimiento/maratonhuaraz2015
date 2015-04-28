@@ -17,6 +17,10 @@ I think you should use an
 x = 0
 x = 2 + 2
 what is x
+x = 0
+x = 2 + 2
+what is x
+
 ```
 
 Se tiene el siguiente Arreglo definido en JavaScript
