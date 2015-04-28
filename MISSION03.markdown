@@ -3,7 +3,7 @@
 
 I think you should use an
 `<addr>` element here instead.
-`<var ponentes = [
+`var ponentes = [
                 {"nombre":"Andres","apellido":"Poccorpachi","Tema":"Scrum"},
                 {"nombre":"Anderson","apellido":"Roncal","Tema":"JavaScript"},
                 {"nombre":"Brayan","apellido":"Borda","Tema":"NodeJS"},
@@ -11,7 +11,13 @@ I think you should use an
                 {"nombre":"Erick","apellido":"Flores","Tema":"ExpressJS"},
                 
                 
-];>` .
+];` 
+
+```
+x = 0
+x = 2 + 2
+what is x
+```
 
 Se tiene el siguiente Arreglo definido en JavaScript
 
