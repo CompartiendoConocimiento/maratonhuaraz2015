@@ -23,4 +23,4 @@ d.- Muestra por consola los apellidos y los temas de los ponentes cuyo nombre es
 
 No te olvides de enviar tu archivo ` ".js" ` a: ` maratonhuaraz2015@compartiendoconocimiento.com ` ; indicando tus nombres y apellidos.
 
-** Nota: Valido sólo para la ciudad de Huaraz **
+**Nota: Valido sólo para la ciudad de Huaraz**
