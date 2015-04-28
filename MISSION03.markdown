@@ -1,5 +1,7 @@
 # MISION 3 <h1>
 
+Se tiene el siguiente Arreglo definido en JavaScript
+
 ```
 var ponentes = [
                 {"nombre":"Andres","apellido":"Poccorpachi","Tema":"Scrum"},
@@ -11,9 +13,6 @@ var ponentes = [
 ];
 
 ``` 
-
-Se tiene el siguiente Arreglo definido en JavaScript
-
 Se pide:
 
 a.- Añade un nuevo ponente {"nombre":"Luis","apellido":"Natividad","Tema":"AngularJS"} al final del Arreglo y retorna la nueva longitud del Arreglo por consola.
