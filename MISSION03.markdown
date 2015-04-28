@@ -9,7 +9,14 @@ __This will also be bold__
 
 *You **can** combine them*
 
-/*Se tiene el siguiente Arreglo definido en JavaScript*/
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+
+
+Se tiene el siguiente Arreglo definido en JavaScript
 
 var ponentes = [
                 {"nombre":"Andres","apellido":"Poccorpachi","Tema":"Scrum"},
