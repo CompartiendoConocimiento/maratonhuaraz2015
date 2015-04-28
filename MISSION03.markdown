@@ -1,4 +1,4 @@
-# MISION 3 <h1>
+# MISION 3
 Se tiene el siguiente Arreglo definido en JavaScript
 ```javascript
  var ponentes = [
