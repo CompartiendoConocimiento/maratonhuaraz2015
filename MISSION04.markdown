@@ -62,6 +62,6 @@ Se pide:
 4. Mostrar por consola el producto con las mejores opiniones.
 5. Mostrar por consola el autor que mas veces ha opinado
 
-No te olvides de enviar tu archivo ` ".js" ` a: ` maratonhuaraz2015@compartiendoconocimiento.com ` ; indicando tus nombres y apellidos.
+No te olvides de enviar tu archivo ` ".js" ` a: ` maratonhuaraz2015@compartiendoconocimiento.com ` ; indicando tus nombres y apellidos.                                        
 
 **Nota:** Valido sólo para la ciudad de Huaraz
